@@ -3,6 +3,8 @@ This is a React app that genereates a password for you.
 
 <img src="./images/button.png" alt="button" width="400"/>
 
+Check it out here -  https://main.d1kpqz9ftfh7bw.amplifyapp.com
+
 
 ## Getting Started with Create React App
 

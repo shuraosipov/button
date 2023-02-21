@@ -63,7 +63,7 @@ const ColorChangingButton = ({ buttonLabel }) => {
 
   const passwordStyles = {
     padding: '50px 20px',
-    fontSize: '16px',
+    fontSize: '24px',
     fontWeight: 'bold',
     textDecoration: 'none',
   };

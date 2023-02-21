@@ -42,7 +42,7 @@ const ColorChangingButton = ({ buttonLabel }) => {
     return () => clearTimeout(timer);
   }, [isCopied]);
 
-  const buttonColor = isPressed ? '#FF5722' : '#2196F3';
+  const buttonColor = isPressed ? '#FF5722' : '#FF5722';
   const buttonStyles = {
     backgroundColor: buttonColor,
     color: '#fff',

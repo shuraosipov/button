@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# About
+This is a React app that genereates a password for you.
+
+<img src="./images/button.png" alt="button" width="200"/>
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
